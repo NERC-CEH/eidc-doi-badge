@@ -4,6 +4,7 @@ Repository for creating (i) [shields.io](https://shields.io) badge on GitHub REA
 
 I learnt from [this thread](https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges) to add custom logo (e.g. figshare doi) into the shields.io badge.
 
+*Michael forked this repo*
 
 # Examples
 [![DOI](https://img.shields.io/badge/EIDC_DOI-%3C10.5285/027b6432--f44d--41ab--b349--89fae673d5f5%3E-blue.svg)](https://catalogue.ceh.ac.uk/documents/027b6432-f44d-41ab-b349-89fae673d5f5)
@@ -12,6 +13,7 @@ Key things:
 - add an extra '-' for '-' in the shields api call
 - '_' for space
 
+Next: do the EIDC logo embedding
 
 ## Figshare doi badge
 
