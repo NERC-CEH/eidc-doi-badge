@@ -6,6 +6,12 @@ I learnt from [this thread](https://stackoverflow.com/questions/38985050/how-do-
 
 
 # Examples
+[![DOI](https://img.shields.io/badge/EIDC_DOI-%3C10.5285/027b6432--f44d--41ab--b349--89fae673d5f5%3E-blue.svg)](https://catalogue.ceh.ac.uk/documents/027b6432-f44d-41ab-b349-89fae673d5f5)
+
+Key things:
+- add an extra '-' for '-' in the shields api call
+- '_' for space
+
 
 ## Figshare doi badge
 
