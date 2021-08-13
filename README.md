@@ -15,6 +15,7 @@ I learnt from [this thread](https://stackoverflow.com/questions/38985050/how-do-
 Key things:
 - add an extra '-' for '-' in the shields api call
 - '_' for space
+- for the URL itself, needs to use URL encoding (can use an online tool)
 
 Next: do the EIDC logo embedding
 
